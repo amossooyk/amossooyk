@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on getting a Degree!
+- 🌱 I’m currently learning Computing Science
+- 👯 I’m looking to collaborate on something interesting hopefully!
+- 🤔 I’m looking for help with knowing what kind of developer I want to be.
+- 💬 Ask me about my day!
+- 📫 How to reach me: Soon.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Hmm..
 <!--
 **amossooyk/amossooyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
